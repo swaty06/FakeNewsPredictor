@@ -31,7 +31,7 @@ def predict_sentiment(text):
     # Return the predicted class (0 = Fake, 1 = Not Fake)
     label = (pred > 0.3).astype(int)  # If the output is greater than 0.5, classify as 1 (Not Fake)
     
-    labels = {0: "Fake News", 1: "Not Fake News"}
+    labels = {0: "Fake News", 1: "Real News"}
     
     return labels[label[0][0]]
 
