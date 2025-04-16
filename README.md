@@ -33,4 +33,4 @@ The model is built using **LSTM (Long Short-Term Memory)** layers in **TensorFlo
 -  Deployment to Hugging Face / Heroku / AWS
 ## Try It Out
 
-Check out the live version of the project here: [FakeNewsPredictor](https://url-based-summarization-tool-for-book-reviews-56zxhrfl8bfiamab.streamlit.app/Url%20Summarisor)
+Check out the live version of the project here: [FakeNewsPredictor](https://fakenewspredictor-kpceeamq8jn9kjbvjnhj5a.streamlit.app/)
